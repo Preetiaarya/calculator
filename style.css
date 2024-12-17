@@ -22,6 +22,7 @@ input{
     text-align: right;
     font-size: 32px;
     cursor: grab;
+    color: aquamarine;
 }
 .calculator{
     border: 1px solid rgb(225, 217, 217);
@@ -44,4 +45,7 @@ background-color: aquamarine;
 }
 input::placeholder{
 color: aquamarine;
+}
+.operator{
+    background-color: antiquewhite;
 }
