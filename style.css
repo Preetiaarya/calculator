@@ -45,6 +45,10 @@ button {
     /* box-shadow: -8px -8px 15px rgb(255, 255, 255, 0.2); */
     cursor: grab;
 }
+button:hover{
+    transform: scale(1.1);
+    /* transition: all 03s ease; */
+}
 
 .equalBtn {
     background-color: aquamarine;
